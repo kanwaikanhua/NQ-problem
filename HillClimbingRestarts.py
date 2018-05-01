@@ -1,4 +1,4 @@
-
+# The Hill Climbing with restarts algorithm
 
 import random
 import NQProblem
